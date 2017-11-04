@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gamesense",
+  "name": "GameSense Mod",
+  "description": "This is a mod that sends events to SteelSeries Engine 3 GameSense.",
+  "version": "1.0.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Jonas Claes"],
+  "credits": "Thanks to MinecraftForge for providing the framework.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
